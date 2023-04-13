@@ -1,4 +1,4 @@
-# Task 1
+# Task 3
 
 Ivan Vasilyevich came to the market and decided to buy two watermelons: one for himself
 and the other for his mother-in-law. It is clear that you need to choose a heavier

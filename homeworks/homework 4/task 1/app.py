@@ -1,20 +1,20 @@
-list_1_size = int(input("Enter the size of the first array: "))
-list_2_size = int(input("Enter the size of the second array: "))
+set_1_size = int(input("Enter the size of the first array: "))
+set_2_size = int(input("Enter the size of the second array: "))
 
-list_1 = []
-for i in range(list_1_size):
+set_1 = set()
+for i in range(set_1_size):
     num = int(input("Enter the number for the first array: "))
-    list_1.append(num)
+    set_1.add(num)
 
-list_2 = []
-for i in range(list_2_size):
+set_2 = set()
+for i in range(set_2_size):
     num = int(input("Enter the number for the second array: "))
-    list_2.append(num)
+    set_2.add(num)
 
-s = set(list_1)
-s.update(list_2)
+result_set = set_1
+result_set.update(set_2)
 
-res = list(s)
+res = list(result_set)
 res.sort()
 
 print(f"Result: {res}")

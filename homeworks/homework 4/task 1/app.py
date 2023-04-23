@@ -11,8 +11,7 @@ for i in range(set_2_size):
     num = int(input("Enter the number for the second array: "))
     set_2.add(num)
 
-result_set = set_1
-result_set.update(set_2)
+result_set = set_1.intersection(set_2)
 
 res = list(result_set)
 res.sort()

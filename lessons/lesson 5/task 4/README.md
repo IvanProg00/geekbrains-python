@@ -1,4 +1,4 @@
-# Task 3
+# Task 4
 
 Given a natural number N and a sequence of N elements. It is required to output this
 sequence in reverse order.

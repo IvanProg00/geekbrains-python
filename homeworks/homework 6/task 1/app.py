@@ -4,7 +4,7 @@ size = int(input("Enter the number of elements: "))
 
 res = []
 
-for i in range(1, size+1):
-    res.append(first_num + (i - 1) * diff)
+for i in range(size):
+    res.append(first_num + i * diff)
 
 print(res)

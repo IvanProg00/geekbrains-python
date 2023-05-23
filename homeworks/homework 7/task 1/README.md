@@ -7,7 +7,7 @@ a program. Winnie-the-Pooh believes that there is a rhythm if the number of syll
 can consist of one word, if there are several words in the phrase, then they are
 separated by hyphens. Phrases are separated from each other by spaces. The poem Winnie-the-Pooh
 drives into the program from the keyboard. In the answer, write “Pam pam pam” if
-the rhythm is all right and “Pam param”, if the rhythm is not all right
+the rhythm is all right and “Pam param”, if the rhythm is not all right.
 
 ## Example
 

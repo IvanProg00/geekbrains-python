@@ -1,7 +1,7 @@
 def count_vowels(s):
     count = 0
     for c in s:
-        if c in ["а", "о", "и", "ы", "у", "э"]:
+        if c in ["а", "о", "и", "ы", "у", "э", "ю", "e", "ё"]:
             count += 1
 
     return count

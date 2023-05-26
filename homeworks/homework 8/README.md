@@ -2,7 +2,7 @@
 
 To supplement the telephone directory with the possibility of changing and deleting
 data. The user can also enter a first or last name, and you must implement the functionality
-to change and delete data
+to change and delete data.
 
 **A simple option:**
 
